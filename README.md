@@ -19,7 +19,7 @@ This portfolio demonstrates my expertise in documenting technical processes, sof
 
 ## API Documentation
 - [Rutter API Documentation for Developers](API-Documentation/Rutter-API-Documentation.md)
-- [Rutter 101](rutter-101.md)
+- [Rutter 101](API-Documentation/Rutter-101.md)
 
 ## Getting Started
 
