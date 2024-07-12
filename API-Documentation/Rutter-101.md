@@ -38,5 +38,51 @@ EcoSupply Co. decided to implement Rutter's Universal API to streamline their fi
 
 **Example API Call: Fetching Account Balances**
 
+```curl -X GET https://api.rutter.com/v1/accounts/balances \
+-H "Authorization: Bearer YOUR_API_KEY"```
 
+**Respone**
+```{
+  "data": [
+    {
+      "account_id": "account_1",
+      "balance": 5000.75,
+      "currency": "USD"
+    },
+    {
+      "account_id": "account_2",
+      "balance": 12000.00,
+      "currency": "USD"
+    }
+  ]
+}
+```
+2. Automated Data Entry: With Rutter's API, EcoSupply Co. automated the transfer of financial data between platforms. This significantly reduced the time spent on manual data entry and minimized errors.
+
+Example API Call: Syncing Transactions
+```curl -X GET https://api.rutter.com/v1/transactions \
+-H "Authorization: Bearer YOUR_API_KEY"
+```
+**Response**
+```{
+  "data": [
+    {
+      "transaction_id": "txn_1",
+      "account_id": "account_1",
+      "amount": -150.00,
+      "currency": "USD",
+      "date": "2024-07-01",
+      "description": "Office Supplies"
+    },
+    {
+      "transaction_id": "txn_2",
+      "account_id": "account_1",
+      "amount": -200.00,
+      "currency": "USD",
+      "date": "2024-07-02",
+      "description": "Eco-friendly Paper"
+    }
+  ]
+}
+```
 
