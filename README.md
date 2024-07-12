@@ -6,10 +6,6 @@ Showcasing nearly a decade of writing experience and my associated skills in tec
 - [Technical Writing](#technical-writing)
 - [Software Documentation](#software-documentation)
 - [API Documentation](#api-documentation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -23,6 +19,7 @@ This portfolio demonstrates my expertise in documenting technical processes, sof
 
 ## API Documentation
 - [Rutter API Documentation for Developers](API-Documentation/Rutter-API-Documentation.md)
+- [Rutter 101](rutter-101.md)
 
 ## Getting Started
 
