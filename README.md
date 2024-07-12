@@ -1,4 +1,5 @@
 # Technical-Writing-Portfolio
+
 Welcome! Feel free to look around as I'm using GitHub to showcase nearly a decade of writing experience and my associated skills in technical writing, software documentation and API documentation.
 
 ## Table of Contents
@@ -29,30 +30,8 @@ While I am investing greatly into technical writing at the moment, I got my star
 - [Rutter API Documentation for Developers](API-Documentation/Rutter-API-Documentation.md)
 - [Rutter 101](API-Documentation/Rutter-101.md)
 
-## Getting Started
-
-These instructions will help you set up the project on your local machine.
-
-### Prerequisites
-
-- List any prerequisites, such as software or tools needed to use the project.
-
-### Installation
-
-- Step-by-step instructions on how to install and set up the project.
-
-## Usage
-
-Provide instructions and examples for using the project. Include code snippets, screenshots, and explanations as needed.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [ashlynj811@gmail.com](ashlynj811@gmail.com).
+[Website](www.ashlynbrooks.com)
+[Linkedin](https://www.linkedin.com/in/anb716/)
