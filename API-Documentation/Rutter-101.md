@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Who is Rutter](#who-is-rutter)
-- [Rutter in Action](rutter-in-action)
+- [Rutter in Action](#rutter-in-action)
 
 ## Introduction
 Rutter is a Universal API for B2B financial products (Fintech/ Banks/ Financial institutions). And while I am not writing this documentation as the original author, I will be 're-documenting' it as an excercise and practice for future projects. 
