@@ -20,7 +20,8 @@ Rutter changes this by providing the tools needed to integrate with these major 
 
 ![image](https://github.com/user-attachments/assets/b166e017-f6ac-4d9f-a77b-4d50ee43a31c)
 
-Enter ➡️ [Rutter](https://www.rutter.com/) 
+# Enter ➡️ [Rutter](https://www.rutter.com/) 
+
 
 ## Rutter In Action
 Below I'm going to showcase an example of putting Rutter's API to use through a fictional company and situation.
