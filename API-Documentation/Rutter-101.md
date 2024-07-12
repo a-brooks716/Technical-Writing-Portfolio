@@ -4,6 +4,9 @@
 - [Introduction](#introduction)
 - [Who is Rutter](#who-is-rutter)
 - [Rutter in Action](#rutter-in-action)
+  - [Situation](#situation)
+  - [Problem](#problem)
+  - [Solution](#solution)
 
 ## Introduction
 Rutter is a Universal API for B2B financial products (Fintech/ Banks/ Financial institutions). And while I am not writing this documentation as the original author, I will be 're-documenting' it as an excercise and practice for future projects. 
@@ -31,7 +34,7 @@ EcoSupply Co. faced several challenges:
 2. Manual Data Entry: Employees had to manually enter financial data from one platform to another, leading to errors and inefficiencies.
 3. Lack of Real-Time Data: The manual processes meant that financial data was often outdated, preventing timely decision-making.
 
-### Solution -> Rutter
+### Solution
 
 EcoSupply Co. decided to implement Rutter's Universal API to streamline their financial management processes. Here's how Rutter's API helped solve their problems:
 1. Seamless Integration: Rutter's API provided a single point of integration for all their banking platforms and accounting software. This allowed EcoSupply Co. to automatically sync financial data across all systems, eliminating data silos and inconsistencies.
@@ -85,4 +88,15 @@ Example API Call: Syncing Transactions
   ]
 }
 ```
+### Outcome
+By implementing Rutter's Universal API, EcoSupply Co. was able to:
 
+- Improve Efficiency: Automated data integration reduced the time spent on manual data entry by 80%.
+- Enhance Accuracy: Eliminate data entry errors and ensure data consistency across all platforms.
+- Gain Insights: Access real-time financial data, enabling better and faster decision-making.
+
+EcoSupply Co. is now better equipped to manage its finances as it continues to grow, thanks to the seamless integration and automation provided by Rutter's API.
+
+```
+By using triple backticks (```) before and after the shell commands and JSON responses, they will be properly formatted as code blocks in Markdown. Additionally, specifying the language (e.g., `sh` for shell commands and `json` for JSON) provides syntax highlighting, making the code easier to read.
+```
