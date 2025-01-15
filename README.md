@@ -22,7 +22,7 @@ While I am investing greatly into technical writing at the moment, I got my star
 
 ## Technical Writing
 - [Understanding Rutter's API for Financial Data Integration](Technical-Writing/Understanding-Rutter-API.md)
-- [Employing Inductive Coding and Theoretical Saturation in Technical Writing](Technical-Writing/Inductive-Coding-and-Theoretical-Saturation-in-Technical-Documentation.md)
+- [Employing Inductive Coding and Theoretical Saturation in Technical Writing](Technical-Writing/inductive-coding-and-theoretical-saturation-in-technical-documentation.md)
 
 ## Software Documentation
 - [Rutter Financial Data Integration Platform Documentation](Software-Documentation/Rutter-Integration-Platform-Documentation.md)
